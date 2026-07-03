@@ -262,4 +262,4 @@ Patent use explicitly permitted.
 
 ---
 
-**Shriyanss Behera** | 25155633@kiit.ac.in
+**Shriyanss Behera** | shriyanss.behera@gmail.com
