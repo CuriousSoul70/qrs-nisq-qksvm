@@ -17,9 +17,7 @@
 ## Paper
 
 **"Noise-Resilient Quantum Machine Learning Models for Small-Scale Classification Tasks"**
-**Shriyanss Behera** | 25155633@kiit.ac.in | IEEE Conference Format | 9 Pages
-
-Read the full paper: [`paper/QML_IEEE_Final.pdf`](paper/QML_IEEE_Final.pdf)
+**Shriyanss Behera** | shriyanss.behera@gmail.com | IEEE Conference Format | 9 Pages
 
 ---
 
